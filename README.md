@@ -22,6 +22,8 @@ Among the core action of actually disabling GameGuard (Also prevents aegisty.bin
 
 4 Persist acrss updates - no need to do anything after a client update - should work out-of-the-box (except some rare cases).
 
-Installation is very easy: just unpack all the files in the archive into the core directory you have BnS installed (where there is folders bin and bin64). After that launch as usual (through the launcher) or use the no launcher method above.
-
 Works with NA/EU, may work as well on TW/JP, maybe even KR, but untested.
+
+# INSTALLATION
+
+Installation is very easy: just unpack all the files in the archive into the core directory you have BnS installed (where there is folders bin and bin64). After that launch as usual (through the launcher) or use the no launcher method above.
