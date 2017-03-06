@@ -4,6 +4,8 @@ I've had some time, so I decided to update my gameguard bypass for bns - well, b
 
 Also decided to release it here (only in binary form, there won't be any source code, don't even try requesting it!)
 
+Downloads are here: https://github.com/Evengard/bnsnogg/releases
+
 Version 2.0.4 is for x64, 2.0.3 is still displayed for old x86.
 
 Among the core action of actually disabling GameGuard (Also prevents aegisty.bin to be loaded too), this also have some nice features, such as:
